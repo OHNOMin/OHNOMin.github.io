@@ -27,8 +27,7 @@ p {
 
 .info {
 	  position: absolute;
-    top: 25%;
-    transform: translateY(-58%);
+    	  top: 25%;
 	  width: 45%;
 	  height: 100px;
   	background-color: white;
@@ -41,7 +40,6 @@ p {
     width: 50%;
 	  margin: 2%;
 	  position: absolute;
-  	top: 30%;
+  	top: 25%;
   	right: 0;
-  	transform: translateY(-58%);
 }
