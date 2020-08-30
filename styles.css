@@ -1,0 +1,47 @@
+body {
+    background: #efefef url(assets/bg.png);
+    background-attachment: fixed;
+    background-size: 65%;
+   }
+
+p {
+  	margin: 10px;
+	  text-align: left;
+	  font-family: arial;
+}
+
+#copyright {
+    position: absolute;
+    bottom: 0;
+}
+
+.parrent {
+    width: 600px;
+    height: 315px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: relative;
+
+}
+
+.info {
+	  position: absolute;
+    top: 50%;
+    transform: translateY(-58%);
+	  width: 42%;
+	  height: 100px;
+  	background-color: white;
+  	opacity: 0.7; 
+    filter: alpha(Opacity=70);
+    border-radius: 5px;
+}
+
+.vk_groups {
+    width: 45%;
+	  margin: 1%;
+	  position: absolute;
+  	top: 42%;
+  	right: 0;
+  	transform: translateY(-58%);
+}
