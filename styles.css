@@ -1,7 +1,7 @@
 body {
-    background: #efefef url(assets/bg.png);
+    background: #efefef url(assets/bg.png);
+
     background-attachment: fixed;
-    background-size: 65%;
    }
 
 p {
@@ -16,8 +16,8 @@ p {
 }
 
 .parrent {
-    width: 600px;
-    height: 315px;
+    width: 598px;
+    height: 300px;
     display: flex;
     flex-direction: column;
     justify-content: center;
