@@ -29,7 +29,7 @@ p {
 	  position: absolute;
     	  top: 2%;
 	  width: 48%;
-	  height: 100px;
+	  height: 100% ;
   	  background-color: white;
           filter: alpha(Opacity=70);
           border-radius: 5px;
